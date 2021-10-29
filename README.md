@@ -3,6 +3,8 @@
 ### The Task: To classify astronomical sources using photometric, spectroscopic and mathematically calculated features into 14 classes (all of which have been described in the base model, i.e. Beat the Base Model.ipynb).
 
 **Base Model Accuracy:** 0.837
+**Improved Model Accuracy:** 0.919
+
 
 All submitted models will be scored and evaluated on the basis of accuracy, precision, recall and F1 score. 
 It is mandatory to split the dataset in a 7:3 train-test ratio.
